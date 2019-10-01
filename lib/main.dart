@@ -58,9 +58,7 @@ Future.delayed(Duration(seconds: 5),(){
   Navigator.pushReplacement(context, _createRoute());
 }
   );
-
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

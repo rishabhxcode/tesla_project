@@ -54,6 +54,7 @@ flutter:
     - images/tesla/model-y.png
     - images/tesla/roadster.png
     - images/tesla_t.png
+    - images/Tesla_logo_grey.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
